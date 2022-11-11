@@ -1,6 +1,9 @@
 ﻿static void Main(string[] args)
 {
-    const string MyName = "Jane";
+    const string MyName = "Ivan";
     Console.WriteLine(MyName);
+    Console.WriteLine("\n Привет, мир");
+    Console.WriteLine("\n Мне 28 лет");
+    Console.WriteLine("My name is \t Ivan");
     Console.ReadKey();
 }
